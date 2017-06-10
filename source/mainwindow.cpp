@@ -62,6 +62,6 @@ void MainWindow::on_actionSourceApp_triggered()
     QTextEdit *Source = new QTextEdit();
     Source->setText("لطفا لینک زیر را در مرورگر خود کپی کنید.");
     Source->setWindowTitle("سورس برنامه");
-    Source->append("https://github.com/amir/darsadgir");
+    Source->append("https://github.com/amir28/darsadgir");
     Source->show();
 }
