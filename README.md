@@ -1,7 +1,7 @@
-# darsadgir
+# DarsadGir
 One App for calculate percent for persian people base QT 5
 ## How to Install
-### ubuntu
+### For Ubuntu System And Other GNU/Linux
 First install **QT5** libraries and **Git** on your System  
 **Then** run it in your terminal.
 ```sh
