@@ -15,4 +15,4 @@ Download the
 [ZipFile](https://raw.githubusercontent.com/amir28/darsadgir/master/bin/DarsadGirV1.1_Windows.zip) 
 and extract files to special folder and run **DarSadGir.exe**.
 ## Help Me
-If you have **MacOS** System Please build this app on your qt and push it to this github page because I don't have **MacOS**.
+If you have **MacOS** System Please build this app on your qt and push it to this github page. Thanks
