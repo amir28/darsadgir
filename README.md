@@ -11,6 +11,6 @@ unzip DarsadGir_linux_64.zip
 ./DarSadGir
 ```
 ### For Windows
-Download the [ZipFile](https://raw.githubusercontent.com/amir28/darsadgir/master/bin/DarsadGir_Windows.zip) and extract files to special folder and run **DarSadGir.exe**.
+Download the [ZipFile](https://raw.githubusercontent.com/amir28/darsadgir/master/bin/DarsadGir_WindowsV1.zip) and extract files to special folder and run **DarSadGir.exe**.
 ## Help Me
 If you have **MacOS** System Please build this app on your qt and push it to this github page because I don't have **MacOS**.
