@@ -18,16 +18,16 @@ and extract files to special folder and run **DarSadGir.exe**. **It has got bug.
 If you have **MacOS** System Please build this app on your qt and push it to this github page. Thanks
 
 ## Tags
-[Darsad Gir](https://github.com/amir28/darsadgir)
-[Darsad Giri](https://github.com/amir28/darsadgir)
-[DarsadGir](https://github.com/amir28/darsadgir)  
-[درصدگیر](https://github.com/amir28/darsadgir)
-[درصد گیری](https://github.com/amir28/darsadgir)
-[درصد گیر](https://github.com/amir28/darsadgir)  
-[محاصبه ی درصد](https://github.com/amir28/darsadgir)
-[محاصبه‌ی درصد](https://github.com/amir28/darsadgir)
-[حساب گر درصد](https://github.com/amir28/darsadgir)  
-[درصد گیری لینوکس](https://github.com/amir28/darsadgir)
-[درصدگیری لینوکس](https://github.com/amir28/darsadgir)
-[درصدگیر لینوکس لینوکس](https://github.com/amir28/darsadgir)
+[Darsad Gir](https://github.com/amir28/darsadgir),
+[Darsad Giri](https://github.com/amir28/darsadgir),
+[DarsadGir](https://github.com/amir28/darsadgir),  
+[درصدگیر](https://github.com/amir28/darsadgir),
+[درصد گیری](https://github.com/amir28/darsadgir),
+[درصد گیر](https://github.com/amir28/darsadgir),  
+[محاصبه ی درصد](https://github.com/amir28/darsadgir),
+[محاصبه‌ی درصد](https://github.com/amir28/darsadgir),
+[حساب گر درصد](https://github.com/amir28/darsadgir),  
+[درصد گیری لینوکس](https://github.com/amir28/darsadgir),
+[درصدگیری لینوکس](https://github.com/amir28/darsadgir),
+[درصدگیر لینوکس لینوکس](https://github.com/amir28/darsadgir),
 [درصدگیر لینوکس لینوکس](https://github.com/amir28/darsadgir)
