@@ -16,3 +16,6 @@ Download the
 and extract files to special folder and run **DarSadGir.exe**. **It has got bug. Please wait to I fix it**
 ## Help Me
 If you have **MacOS** System Please build this app on your qt and push it to this github page. Thanks
+
+## Tags
+[Darsad Gir](#) [Darsad Giri](#) [درصدگیر](#) [درصد گیری](#) [درصد گیر](#) [درصد گیری لینوکس](#) [DarsadGir](#) [محاصبه ی درصد](#) [محاصبه‌ی درصد](#) [حساب گر درصد](#)  
