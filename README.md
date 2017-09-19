@@ -34,3 +34,17 @@ If you have **MacOS** System Please build this app on your qt and push it to thi
 [درصدگیری لینوکس](https://github.com/amir28/darsadgir),
 [درصدگیر لینوکس لینوکس](https://github.com/amir28/darsadgir),
 [درصدگیر لینوکس لینوکس](https://github.com/amir28/darsadgir)
+[دستیار آزمون](https://github.com/amir28/darsadgir),
+[درصد آزمون](https://github.com/amir28/darsadgir),
+[محاصبه ی درصد آزمون](https://github.com/amir28/darsadgir),
+[محاصبه‌ی درصد آزمون](https://github.com/amir28/darsadgir),
+[برنامه‌ی محاصبه‌ی آزمون](https://github.com/amir28/darsadgir),
+[برنامه ی محاصبه ی آزمون](https://github.com/amir28/darsadgir),
+[درصد گیری](https://github.com/amir28/darsadgir),
+[نرم‌افزار درصد گیری](https://github.com/amir28/darsadgir),
+[نرم افزار درصد گیری](https://github.com/amir28/darsadgir),
+[برنامه محاصبه ی درصد](https://github.com/amir28/darsadgir),
+[برنامه‌ی محاصبه‌ی درصد](https://github.com/amir28/darsadgir),
+[برنامه‌ی درصد گیری](https://github.com/amir28/darsadgir),
+[برنامه ی درصد گیری](https://github.com/amir28/darsadgir),
+[درصد گیری آزمون](https://github.com/amir28/darsadgir)
