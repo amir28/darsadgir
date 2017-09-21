@@ -8,7 +8,8 @@ First install **libqt5widgets5** package on your System with PackageManager
 mkdir darsadgir && cd darsadgir
 curl -s https://api.github.com/repos/amir28/darsadgir/releases/latest | grep browser_download_url | cut -d '"' -f 4 | grep Linux > darsadgir-url
 wget -i darsadgir-url
-unzip DarsadGir*.zip
+unzip Darsad_Gir*.zip
+rm darsadgir-url
 ./DarSadGir
 # OR
 ./DarSadGir-2
