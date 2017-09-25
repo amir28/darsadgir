@@ -65,5 +65,3 @@ If you have **MacOS** System Please build this app on your qt and push it to thi
 [دانلود برنامه محاصبه‌گر درصد کنکور](https://github.com/amir28/darsadgir),
 [درصدیاب تست](https://github.com/amir28/darsadgir),
 [درصدیاب کنکور](https://github.com/amir28/darsadgir),
-[](https://github.com/amir28/darsadgir),
-[](https://github.com/amir28/darsadgir),
