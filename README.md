@@ -1,8 +1,8 @@
 # DarsadGir
-One App for calculate percent for persian people base QT 5
+a desktop app for calculate exam currect percent for persian people. created by QT 5
 ## How to Install
 ### For Ubuntu System And Other GNU/Linux
-First install **libqt5widgets5** package on your System with PackageManager  
+First install **Qt librarys**, **curl** package on your system with your package manager  
 **Then** run it in your terminal.
 ```sh
 mkdir darsadgir && cd darsadgir
@@ -17,11 +17,9 @@ rm darsadgir-url
 ### For Windows
 Download the **Darsad_Gir_Windows.zip** from
 [here](https://github.com/amir28/darsadgir/releases/latest) 
-and extract files to special folder and run **DarSadGir.exe**.
-## Help Me
-If you have **MacOS** System Please build this app on your qt and push it to this github page. Thanks
+and extract files to desired folder and run **DarSadGir.exe**.
 
-## T_a_g_s
+## Tags
 [Darsad Gir](https://github.com/amir28/darsadgir),
 [Darsad Giri](https://github.com/amir28/darsadgir),
 [PercentageCalculator](https://github.com/amir28/darsadgir),
